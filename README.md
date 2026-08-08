@@ -12,11 +12,11 @@ The frontend is currently the main focus of the project. A backend using **ASP.N
 
 ### Homepage
 
-![OnlineStore Homepage](screenshots/homemade.png)
+![OnlineStore Homepage](screenshots/homepage.png)
 
 ### Product Collection
 
-![OnlineStore Product Cards](screenshots/productcard.png)
+![OnlineStore Product Cards](screenshots/productcard-png.png)
 
 ### Shopping Cart & Checkout
 
@@ -70,8 +70,8 @@ The frontend will eventually communicate with the .NET backend through API endpo
 OnlineStore/
 │
 ├── screenshots/
-│   ├── homemade.png
-│   ├── productcard.png
+│   ├── homepage.png
+│   ├── productcard-png.png
 │   └── checkout.png
 │
 ├── src/
